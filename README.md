@@ -58,7 +58,37 @@ Each row in the final dataset represents one track, enriched with album-level me
 - Solo and group projects differed in their dominant moods and themes.
 - Neil Young had the most diverse mood profile among the analyzed artists.
 
+## Selected Results
 
+### Song Duration Through the Decades
+
+![Song Duration Through the Decades](assets/song-duration-through-decades.png)
+
+This visualization shows how average song duration changed across decades, highlighting broader shifts in the artists' recording and songwriting patterns.
+
+### Style Overlap Over the Decades
+
+![Style Overlap Over the Decades](assets/style-overlap-over-decades.png)
+
+This visualization compares the musical styles shared by the artists across different decades and shows how their stylistic similarities evolved over time.
+
+### Popularity of Solo and Group Projects
+
+![Popularity comparison](assets/popularity-comparison.png)
+
+CSNY achieved slightly higher average popularity than CSN, but the observed difference was small. Neil Young had the highest average popularity among the individual artists.
+
+### Audio Features and Popularity
+
+![Audio feature correlations](assets/audio-feature-correlations.png)
+
+The analysed Spotify audio features showed weak linear relationships with popularity. This suggests that popularity cannot be explained by individual audio characteristics alone.
+
+### Artist Mood Profiles
+
+![Artist mood profiles](assets/artist-mood-profiles.png)
+
+The artists share recurring introspective, mellow, and poignant moods, while their solo projects retain distinct emotional profiles.
 
 # Project Structure
 
